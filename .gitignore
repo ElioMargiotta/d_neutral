@@ -1,3 +1,7 @@
 info.txt
 d_env
 key.env
+__pycache__/
+*.pyc
+config/hl.env
+config/vest.env
