@@ -7,3 +7,4 @@ __pycache__/
 # Ignore real env files
 config/hl.env
 config/vest.env
+
