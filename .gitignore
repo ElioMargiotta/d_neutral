@@ -3,5 +3,7 @@ d_env
 key.env
 __pycache__/
 *.pyc
+
+# Ignore real env files
 config/hl.env
 config/vest.env
